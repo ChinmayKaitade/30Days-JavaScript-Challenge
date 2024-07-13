@@ -1,4 +1,5 @@
-# 30 Days JavaScript Challenge 🔥🚀
+# 30 Days JavaScript Challenge 🔥🚀 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 | Days | Topics                                                             |
 | ---- | ------------------------------------------------------------------ |
