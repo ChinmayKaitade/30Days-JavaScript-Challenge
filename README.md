@@ -1,8 +1,3 @@
-# 30 Days JavaScript Challenge 🔥🚀 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 # 30 Days JavaScript Challenge 🔥🚀
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
