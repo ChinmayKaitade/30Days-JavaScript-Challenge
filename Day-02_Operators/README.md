@@ -1,5 +1,7 @@
 # Day-02 : Operators 🍵❤️‍🔥
 
+![Day-02 Code Snap](./Day-02.png)
+
 ## Tasks | Activities 🌟
 
 _**Activity 1: Arithmetic Operations**_
