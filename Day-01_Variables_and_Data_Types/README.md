@@ -1,6 +1,6 @@
 # Day-01 : Variables and Data Types 🍵❤️‍🔥
 
-![Day-01 Code Snap](Day-01.png)
+![Day-01 Code Snap](./Day-01.png)
 
 ## Tasks | Activities 🌟
 
