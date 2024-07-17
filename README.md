@@ -13,6 +13,7 @@
 | 02   | [Operators 🍵❤️‍🔥](./Day-02_Operators)                               |
 | 03   | [Control Structures 🍵❤️‍🔥](./Day-03_Control_Structures)             |
 | 04   | [Loops 🍵❤️‍🔥](./Day-04_Loops)                                       |
+| 05   | [Functions 🍵❤️‍🔥](./Day-05_Functions)                               |
 
 ## License
 
