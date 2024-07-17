@@ -18,6 +18,8 @@ _**Activity 2: While Loop**_
 
 - **Task 4:** Write a program to print numbers from 10 to 1 using a while loop.
 
+<hr/>
+
 _**Activity 3: Do... While Loop**_
 
 - **Task 5:** Write a program to print numbers from 1 to 5 using a do...while loop.
@@ -33,6 +35,8 @@ _**Activity 4: Nested Loops**_
 (ignore color)
 
 ![Loop Pattern](Pattern.png)
+
+<hr/>
 
 _**Activity 5: Loop Control Statements**_
 
