@@ -26,13 +26,13 @@ _**Activity 3: Switch Case**_
 
 _**Activity 4: Conditional (Ternary) Operator**_
 
-- **Task 06:** Write a program that uses the ternary operator to check if a number is even or odd and log the result to the console.
+- **Task 6:** Write a program that uses the ternary operator to check if a number is even or odd and log the result to the console.
 
 <hr/>
 
 _**Activity 5: Combining Conditions**_
 
-- **Task 07:** Write a program to check if a year using multiple conditions (divisible by 4, but not 100 unless also divisible by 400) and log the result to the console.
+- **Task 7:** Write a program to check if a year using multiple conditions (divisible by 4, but not 100 unless also divisible by 400) and log the result to the console.
 
 <hr/>
 
