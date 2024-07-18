@@ -14,7 +14,7 @@
 | 03   | [Control Structures 🍵❤️‍🔥](./Day-03_Control_Structures)             |
 | 04   | [Loops 🍵❤️‍🔥](./Day-04_Loops)                                       |
 | 05   | [Functions 🍵❤️‍🔥](./Day-05_Functions)                               |
-| 05   | [Arrays 🍵❤️‍🔥](./Day-06_Arrays)                                     |
+| 06   | [Arrays 🍵❤️‍🔥](./Day-06_Arrays)                                     |
 
 ## License
 
