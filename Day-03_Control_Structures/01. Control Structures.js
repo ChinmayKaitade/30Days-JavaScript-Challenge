@@ -11,6 +11,8 @@ if (num > 0) {
   console.log(num, "is Zero.");
 }
 
+console.log("***Task 1 Ended Here!✅***");
+
 // - Task 2: Write a Program to check if a person is eligible to vote (age >= 18) and log the result to the console.
 let age = 23;
 
@@ -19,6 +21,8 @@ if (age >= 18) {
 } else {
   console.log("Sorry, You're not Eligible to Vote!");
 }
+
+console.log("***Task 2 Ended Here!✅***");
 
 // ********************************* //
 
@@ -36,6 +40,8 @@ if (firstNum > secondNum) {
 } else {
   console.log(thirdNum, ": Third Number is greater");
 }
+
+console.log("***Task 3 Ended Here!✅***");
 
 // ********************************* //
 
@@ -72,6 +78,8 @@ switch (dayNumber) {
 }
 console.log(dayName);
 
+console.log("***Task 4 Ended Here!✅***");
+
 // - **Task 5:** Write a program that uses a switch case to assign a grade ('A', 'B', 'C', 'D', 'f') based on a score and log the grade to the console.
 let score = 80;
 
@@ -98,6 +106,8 @@ switch (true) {
 }
 console.log(grade);
 
+console.log("***Task 5 Ended Here!✅***");
+
 // ********************************* //
 
 // Activity 4: Conditional (Ternary) Operator ✅
@@ -107,6 +117,8 @@ let numberCheck = 5;
 
 let result = numberCheck % 2 === 0 ? "Even" : "Odd";
 console.log(result);
+
+console.log("***Task 6 Ended Here!✅***");
 
 // ********************************* //
 
@@ -119,3 +131,5 @@ let isLeapYear =
     ? "Leap year"
     : "Not a leap year";
 console.log(`${yearCheck} is ${isLeapYear}`);
+
+console.log("***Task 7 Ended Here!✅***");

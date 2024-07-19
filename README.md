@@ -15,6 +15,7 @@
 | 04   | [Loops 🍵❤️‍🔥](./Day-04_Loops)                                       |
 | 05   | [Functions 🍵❤️‍🔥](./Day-05_Functions)                               |
 | 06   | [Arrays 🍵❤️‍🔥](./Day-06_Arrays)                                     |
+| 06   | [Objects 🍵❤️‍🔥](./Day-07_Objects)                                     |
 
 ## License
 
