@@ -15,8 +15,9 @@
 | 04   | [Loops 🍵❤️‍🔥](./Day-04_Loops)                                       |
 | 05   | [Functions 🍵❤️‍🔥](./Day-05_Functions)                               |
 | 06   | [Arrays 🍵❤️‍🔥](./Day-06_Arrays)                                     |
-| 07   | [Objects 🍵❤️‍🔥](./Day-07_Objects)                                     |
-| 08   | [ES6+ Features 🍵❤️‍🔥](./Day-08_ES6+_Features)                                     |
+| 07   | [Objects 🍵❤️‍🔥](./Day-07_Objects)                                   |
+| 08   | [ES6+ Features 🍵❤️‍🔥](./Day-08_ES6+_Features)                       |
+| 09   | [DOM Manipulation 🍵❤️‍🔥](./Day-09_DOM_Manipulation)                       |
 
 ## License
 
