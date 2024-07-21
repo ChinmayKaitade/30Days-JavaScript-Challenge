@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM Manipulation Tasks</title>
+    <style>
+        .bgColorChange {
+            width: 100px;
+            height: 100px;
+            background-color: yellow;
+        }
+        .firstImage {
+            width: 300px;
+            height: 320px;
+            object-fit: contain;
+        }
+
+        .hoverElement {
+            width: 100px;
+            height: 100px;
+            border: 2px solid black;
+        }
+        .removeClass {
+            color: red;
+        }
+        .addClass {
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+    <!-- Task 1 -->
+    <div id="changeText">Original Text Content</div>
+
+    <!-- Task 2  -->
+    <div class="bgColorChange">Change Background Color</div>
+
+    <!-- Task 4  -->
+    <ul>
+        <li>Adding Item to existing list</li>
+    </ul>
+
+    <!-- Task 5  -->
+    <div id="removeMe">Remove this element</div>
+
+    <!-- Task 6  -->
+    <div id="parentElement">
+        <div>First child</div>
+        <div>Second child</div>
+    </div>
+
+    <!-- Task 7  -->
+    <img src="./firstImage.png" alt="firstImage" class="firstImage">
+    
+    <!-- Task 8  -->
+    <div class="elem addClass">Class manipulation</div>
+    
+    <!-- Task 9  -->
+    <button>Click me</button>
+    <p>Original paragraph text</p>
+    
+    <!-- Task 10  -->
+    <div class="hoverElement">Hover over me</div>
+    <script>
+        // Activity 1: Selecting and Manipulating Elements ✅
+        // Task 1
+        document.getElementById('changeText').textContent = 'Text Content Changed';
+
+        // Task 2
+        document.querySelector('.bgColorChange').style.backgroundColor = 'royalblue';
+
+        // Activity 2: Creating and Appending Elements ✅
+        // Task 3
+        const newDiv = document.createElement('div');
+        newDiv.textContent = 'Creating a new div and adding text content to it.';
+        document.body.appendChild(newDiv);
+
+        // Task 4
+        const newLi = document.createElement('li');
+        newLi.textContent = 'List Item Added Successfully.';
+        document.querySelector('ul').appendChild(newLi);
+ 
+        // Activity 3: Removing Elements ✅
+        // Task 5
+        const elementToRemove = document.getElementById('removeMe');
+        elementToRemove.parentNode.removeChild(elementToRemove);
+
+        // Task 6
+        const parentElement = document.getElementById('parentElement');
+        parentElement.removeChild(parentElement.lastChild);
+
+        // Activity 4: Modifying Attributes and Classes ✅
+        // Task 7
+        const image = document.querySelector('.firstImage')
+        image.src = "./changedImage.png";
+        
+        // Task 8
+        const myElement = document.querySelector('.elem');
+        myElement.classList.add('addClass');
+        myElement.classList.remove('removeClass');
+
+        // Activity 5: Event Handling ✅
+        // Task 9
+        document.querySelector('button').addEventListener('click', () => {
+            document.querySelector('p').textContent = 'Paragraph Text changed!';
+        });
+
+        // Task 10
+        document.querySelector('.hoverElement').addEventListener('mouseover', () => {
+            document.querySelector('.hoverElement').style.borderColor = 'red';
+        });
+    </script>
+</body>
+</html>
