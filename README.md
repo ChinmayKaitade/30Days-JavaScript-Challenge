@@ -17,7 +17,8 @@
 | 06   | [Arrays 🍵❤️‍🔥](./Day-06_Arrays)                                     |
 | 07   | [Objects 🍵❤️‍🔥](./Day-07_Objects)                                   |
 | 08   | [ES6+ Features 🍵❤️‍🔥](./Day-08_ES6+_Features)                       |
-| 09   | [DOM Manipulation 🍵❤️‍🔥](./Day-09_DOM_Manipulation)                       |
+| 09   | [DOM Manipulation 🍵❤️‍🔥](./Day-09_DOM_Manipulation)                 |
+| 10   | [Event Handling 🍵❤️‍🔥](./Day-10_Event_Handling)                     |
 
 ## License
 
