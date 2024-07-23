@@ -20,6 +20,12 @@
 | 09   | [DOM Manipulation 🍵❤️‍🔥](./Day-09_DOM_Manipulation)                 |
 | 10   | [Event Handling 🍵❤️‍🔥](./Day-10_Event_Handling)                     |
 
+
+## Contributing
+
+We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
+
+
 ## License
 
 This Repository is [MIT Licensed](./LICENSE)
