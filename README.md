@@ -22,9 +22,11 @@
 | 11   | [Promises and Async/Await 🍵❤️‍🔥](./Day-11_Promises_and_Async_Await) |
 
 
-## Contributing
+## 💼 Contribution
 
-We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
+We Welcome all Contributions! Feel free to raise issues or send in pull requests. Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
+
+
 
 
 ## License
