@@ -19,6 +19,7 @@
 | 08   | [ES6+ Features 🍵❤️‍🔥](./Day-08_ES6+_Features)                       |
 | 09   | [DOM Manipulation 🍵❤️‍🔥](./Day-09_DOM_Manipulation)                 |
 | 10   | [Event Handling 🍵❤️‍🔥](./Day-10_Event_Handling)                     |
+| 11   | [Promises and Async/Await 🍵❤️‍🔥](./Day-11_Promises_and_Async_Await) |
 
 
 ## Contributing
