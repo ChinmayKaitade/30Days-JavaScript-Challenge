@@ -24,19 +24,11 @@
 
 ## 📖 Additional Resources
 
-<<<<<<< Updated upstream
-## 💼 Contribution
-
-We Welcome all Contributions! Feel free to raise issues or send in pull requests. Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
-
-
-=======
 - [JavaScript Documentation](https://www.javascript.com/)
 - [JavaScript Interactive Documentation](https://www.learn-js.org/)
 - [JavaScript MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## 💼 Contribution
->>>>>>> Stashed changes
 
 We Welcome Contributions! Please See Our [CONTRIBUTING.md](CONTRIBUTING.md) for more Details.
 
