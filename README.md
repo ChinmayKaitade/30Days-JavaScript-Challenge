@@ -6,6 +6,8 @@
 
 ### _[30 Days Of JavaScript ](https://courses.chaicode.com/learn/batch/30-days-of-Javascript-challenge) by [Hitesh Choudhary](https://www.linkedin.com/in/hiteshchoudhary/) Founder of [ChaiAurCode](https://courses.chaicode.com/learn). This Repository Includes JavaScript Challenge of 30 Days with Organized manner._
 
+![Cover Image for JavaScript Challenge](30Days%20of%20JavaScript%20Cover.jpg)
+
 | Days | Topics                                                             |
 | ---- | ------------------------------------------------------------------ |
 | 00   | [Introduction 📑](./README.md)                                     |
@@ -21,6 +23,7 @@
 | 10   | [Event Handling 🍵❤️‍🔥](./Day-10_Event_Handling)                     |
 | 11   | [Promises and Async/Await 🍵❤️‍🔥](./Day-11_Promises_and_Async_Await) |
 | 12   | [Error Handling 🍵❤️‍🔥](./Day-12_Error_Handling)                     |
+| 13   | [Modules 🍵❤️‍🔥](./Day-13_Modules)                                   |
 
 ## 📖 Additional Resources
 
@@ -28,9 +31,46 @@
 - [JavaScript Interactive Documentation](https://www.learn-js.org/)
 - [JavaScript MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
+## 🔥 Clone this Repository
+
+Ensure you have the following installed:
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/) (if applicable)
+
+1. **To clone this repository, use the following command:**
+
+   ```bash
+   git clone https://github.com/your-username/your-repository.git
+   ```
+
+2. **Navigate to the project directory:**
+
+   ```bash
+   cd your-repository
+   ```
+
+3. **Install dependencies:**
+
+   ```bash
+   npm install
+   ```
+
+4. **Start the project:**
+
+   ```bash
+   npm start
+   ```
+
+## 📖 Usage
+
+- Customize the `config` files as needed.
+- Update the sample files with your project details.
+- Refer to the documentation files for guidance on how to use various components.
+
 ## 💼 Contribution
 
-We Welcome Contributions! Please See Our [CONTRIBUTING.md](CONTRIBUTING.md) for more Details.
+We Welcome Contributions! We are grateful for the valuable contributions from our community. Please See Our [CONTRIBUTING.md](CONTRIBUTING.md) for more Details.
 
 ## License
 
