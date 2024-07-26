@@ -6,7 +6,7 @@
 
 ### _[30 Days Of JavaScript ](https://courses.chaicode.com/learn/batch/30-days-of-Javascript-challenge) by [Hitesh Choudhary](https://www.linkedin.com/in/hiteshchoudhary/) Founder of [ChaiAurCode](https://courses.chaicode.com/learn). This Repository Includes JavaScript Challenge of 30 Days with Organized manner._
 
-<img src="./30Days of JavaScript Cover.jpg" height="380px" width="610px"/>
+<img src="./30Days of JavaScript Cover.jpg" height="410px" width="620px"/>
 
 | Days | Topics                                                             |
 | ---- | ------------------------------------------------------------------ |
