@@ -6,7 +6,7 @@ We welcome contributions of all kinds! Here are some guidelines to help you get 
 
 1. **Fork the Repository**: Click the "Fork" button on the top right to create your own copy of the repository.
 
-2. **Clone Your Fork**: Clone your forked repository to your local machine using `git clone https://github.com/your-username/your-repo.git`.
+2. **Clone Your Fork**: Clone your forked repository to your local machine using `git clone https://github.com/ChinmayKaitade/30Days-JavaScript-Challenge.git`.
 
 3. **Create a Branch**: Create a new branch for your feature or bug fix using `git checkout -b your-branch-name`.
 

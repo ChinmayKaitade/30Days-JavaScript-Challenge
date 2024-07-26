@@ -24,6 +24,7 @@
 | 11   | [Promises and Async/Await 🍵❤️‍🔥](./Day-11_Promises_and_Async_Await) |
 | 12   | [Error Handling 🍵❤️‍🔥](./Day-12_Error_Handling)                     |
 | 13   | [Modules 🍵❤️‍🔥](./Day-13_Modules)                                   |
+| 14   | [Classes 🍵❤️‍🔥](./Day-14_Classes)                                   |
 
 ## 📖 Additional Resources
 
@@ -41,7 +42,7 @@ Ensure you have the following installed:
 1. **To clone this repository, use the following command:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/ChinmayKaitade/30Days-JavaScript-Challenge.git
    ```
 
 2. **Navigate to the project directory:**
