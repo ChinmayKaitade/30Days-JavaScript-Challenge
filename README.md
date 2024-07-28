@@ -26,6 +26,7 @@
 | 13   | [Modules 🍵❤️‍🔥](./Day-13_Modules)                                   |
 | 14   | [Classes 🍵❤️‍🔥](./Day-14_Classes)                                   |
 | 15   | [Closures 🍵❤️‍🔥](./Day-15_Closures)                                 |
+| 16   | [Recursion 🍵❤️‍🔥](./Day-15_Closures)                                 |
 
 ## 📖 Additional Resources
 
