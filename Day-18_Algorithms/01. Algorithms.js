@@ -1,5 +1,4 @@
 // Activity 1: Sorting Algorithms ✅
-
 // - Task 1: Bubble Sort
 function bubbleSort(arr) {
   let n = arr.length;
@@ -69,7 +68,6 @@ console.log("***Task 3 Ended Here!✅***");
 // ********************************* //
 
 // Activity 2: Searching Algorithms ✅
-
 // - Task 4: Linear Search
 function linearSearch(arr, target) {
   for (let i = 0; i < arr.length; i++) {
@@ -115,7 +113,6 @@ console.log("***Task 5 Ended Here!✅***");
 // ********************************* //
 
 // Activity 3: String Algorithms ✅
-
 // - Task 6: Count Character Occurrences
 function countCharacterOccurrences(str) {
   let counts = {};
@@ -156,7 +153,6 @@ console.log("***Task 7 Ended Here!✅***");
 // ********************************* //
 
 // Activity 4: Array Algorithms ✅
-
 // - Task 8: Rotate Array by k Positions
 function rotateArray(arr, k) {
   k = k % arr.length;
@@ -204,7 +200,6 @@ console.log("***Task 9 Ended Here!✅***");
 // ********************************* //
 
 // Activity 5: Dynamic Programming (Optional) ✅
-
 // - Task 10: Fibonacci Sequence using Dynamic Programming
 function fibonacciDP(n) {
   let fib = [0, 1];
