@@ -8,19 +8,27 @@
 
 <img src="./30Days of JavaScript Cover.jpg" height="410px" width="620px"/>
 
-| Days | Topics                                                           |     | Days | Topics                                                           |     | Days | Topics |
-| ---- | ---------------------------------------------------------------- | --- | ---- | ---------------------------------------------------------------- | --- | ---- | ------ |
-| 00   | [Introduction 📑](./README.md)                                   |     | 11   | [Promises and Async/Await 📜](./Day-11_Promises_and_Async_Await) |     | 21   |        |
-| 02   | [Variables and Data Types 🍵](./Day-01_Variables_and_Data_Types) |     | 12   | [Error Handling ⚠️](./Day-12_Error_Handling)                     |     | 22   |        |
-| 03   | [Control Structures 🙇‍♂️](./Day-03_Control_Structures)             |     | 13   | [Modules 🎃](./Day-13_Modules)                                   |     | 23   |        |
-| 04   | [Loops 🛞](./Day-04_Loops)                                        |     | 14   | [Classes 🎪](./Day-14_Classes)                                   |     | 24   |        |
-| 05   | [Functions 🔑](./Day-05_Functions)                               |     | 15   | [Closures 🤖](./Day-15_Closures)                                 |     | 25   |        |
-| 06   | [Arrays 🎭](./Day-06_Arrays)                                     |     | 16   | [Recursion 🎡](./Day-15_Closures)                                |     | 26   |        |
-| 07   | [Objects ✨](./Day-07_Objects)                                   |     | 17   | [Data Structures 🚀](./Day-17_Data_Structures)                   |     | 27   |        |
-| 08   | [ES6+ Features 🔥](./Day-08_ES6+_Features)                       |     | 18   | [Algorithms ❤️‍🔥](./Day-18_Algorithms)                             |     | 28   |        |
-| 09   | [DOM Manipulation 🔧](./Day-09_DOM_Manipulation)                 |     | 19   | [Regular Expressions 🕷️](./Day-19_Regular_Expressions)           |     | 29   |        |
-| 10   | [Event Handling 🥷](./Day-10_Event_Handling)                     |     | 20   |                                                                  |     | 30   |        |
-
+| Days | Topics                                                                         |
+| ---- | ------------------------------------------------------------------------------ |
+| 00   | [Introduction 📑](./README.md)                                                 |
+| 02   | [Variables and Data Types 🍵](./Day-01_Variables_and_Data_Types)               |
+| 03   | [Control Structures 🙇‍♂️](./Day-03_Control_Structures)                           |
+| 05   | [Functions 🔑](./Day-05_Functions)                                             |
+| 06   | [Arrays 🎭](./Day-06_Arrays)                                                   |
+| 07   | [Objects ✨](./Day-07_Objects)                                                 |
+| 08   | [ES6+ Features 🔥](./Day-08_ES6+_Features)                                     |
+| 09   | [DOM Manipulation 🔧](./Day-09_DOM_Manipulation)                               |
+| 10   | [Event Handling 🥷](./Day-10_Event_Handling)                                   |
+| 11   | [Promises and Async/Await 📜](./Day-11_Promises_and_Async_Await)               |
+| 12   | [Error Handling ⚠️](./Day-12_Error_Handling)                                   |
+| 13   | [Modules 🎃](./Day-13_Modules)                                                 |
+| 14   | [Classes 🎪](./Day-14_Classes)                                                 |
+| 15   | [Closures 🤖](./Day-15_Closures)                                               |
+| 16   | [Recursion 🎡](./Day-15_Closures)                                              |
+| 17   | [Data Structures 🚀](./Day-17_Data_Structures)                                 |
+| 18   | [Algorithms ❤️‍🔥](./Day-18_Algorithms)                                           |
+| 19   | [Regular Expressions 🕷️](./Day-19_Regular_Expressions)                         |
+| 20   | [LocalStorage and SessionStorage 📁](./Day-20_LocalStorage_and_SessionStorage) |
 
 ## 📖 Additional Resources
 
