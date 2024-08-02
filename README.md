@@ -1,12 +1,23 @@
 # 30 Days JavaScript Challenge 🔥🚀
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+<div align="center">
+	<a href="https://github.com/ChinmayKaitade/30Days-JavaScript-Challenge"><img src="hero.svg" alt="hero" width="100px"/></a>
+	<h1>30 Days JavaScript Code Challenges</h1>
+	<h3>JavaScript Challenge Series by Hitesh Choudhary</h3>
+	<h4>Consistency | Practice | Code | Leetcode</h4>
+	<p>
+		<a name="stars"><img src="https://img.shields.io/github/stars/ChinmayKaitade/30Days-JavaScript-Challenge?style=for-the-badge"></a>
+		<a name="forks"><img src="https://img.shields.io/github/forks/ChinmayKaitade/30Days-JavaScript-Challenge?logoColor=green&style=for-the-badge"></a>
+		<a name="contributions"><img src="https://img.shields.io/github/contributors/ChinmayKaitade/30Days-JavaScript-Challenge?logoColor=green&style=for-the-badge"></a>
+		<a name="license"><img src="https://img.shields.io/github/license/ChinmayKaitade/30Days-JavaScript-Challenge?style=for-the-badge"></a>
+	</p>
+	<h3>Find Challenge Here <a href="https://github.com/ChinmayKaitade/30Days-JavaScript-Challenge">JavaScript Code Challenges</a></h3>
+	<h4>Show your support by giving a ⭐ to this repo</h4>
+</div>
 
 ### _[30 Days Of JavaScript ](https://courses.chaicode.com/learn/batch/30-days-of-Javascript-challenge) by [Hitesh Choudhary](https://www.linkedin.com/in/hiteshchoudhary/) Founder of [ChaiAurCode](https://courses.chaicode.com/learn). This Repository Includes JavaScript Challenge of 30 Days with Organized manner._
-
-<img src="./30Days of JavaScript Cover.jpg" height="410px" width="620px"/>
 
 | Days | Topics                                                                         |
 | ---- | ------------------------------------------------------------------------------ |
@@ -29,6 +40,7 @@
 | 18   | [Algorithms ❤️‍🔥](./Day-18_Algorithms)                                           |
 | 19   | [Regular Expressions 🕷️](./Day-19_Regular_Expressions)                         |
 | 20   | [LocalStorage and SessionStorage 📁](./Day-20_LocalStorage_and_SessionStorage) |
+| 21   | [LeetCode Easy 🎖️](./Day-21_Leetcode_Easy)                                     |
 
 ## 📖 Additional Resources
 
