@@ -41,7 +41,7 @@
 | 19   | [Regular Expressions 🕷️](./Day-19_Regular_Expressions)                         |
 | 20   | [LocalStorage and SessionStorage 📁](./Day-20_LocalStorage_and_SessionStorage) |
 | 21   | [LeetCode Easy 🥉](./Day-21_Leetcode_Easy)                                     |
-| 21   | [LeetCode Medium 🥈](./Day-21_Leetcode_Medium)                                 |
+| 21   | [LeetCode Medium 🥈](./Day-22_Leetcode_Medium)                                 |
 
 ## 📖 Additional Resources
 
