@@ -42,6 +42,7 @@
 | 20   | [LocalStorage and SessionStorage 📁](./Day-20_LocalStorage_and_SessionStorage) |
 | 21   | [LeetCode Easy 🥉](./Day-21_Leetcode_Easy)                                     |
 | 22   | [LeetCode Medium 🥈](./Day-22_Leetcode_Medium)                                 |
+| 23   | [LeetCode Hard 🥇](./Day-23_Leetcode_Hard)                                     |
 
 ## 📖 Additional Resources
 
