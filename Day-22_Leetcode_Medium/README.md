@@ -25,6 +25,7 @@ _**Activity 2: Longest Substring Without Repeating Characters**_
 _**Activity 3: Container With Most Water**_
 
 - **Task 3:** Solve the "Container With Most Water" problem on LeetCode.
+
   - Write a function that takes an array of non-negative integers where each integer represents the height of a line drawn at each point. Find two lines that together with the x-axis form a container, such that the container holds the most water.
   - Log the maximum amount of water for a few test cases.
 
@@ -33,6 +34,7 @@ _**Activity 3: Container With Most Water**_
 _**Activity 4: 3Sum**_
 
 - **Task 4:** Solve the 3Sum problem on LeetCode.
+
   - Write a function that takes an array of integers and finds all unique triplets in the array which give the sum of zero.
   - Log the triplets for a few test cases, including edge cases.
 
