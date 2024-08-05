@@ -44,6 +44,10 @@
 | 22   | [LeetCode Medium 🥈](./Day-22_Leetcode_Medium)                                 |
 | 23   | [LeetCode Hard 🥇](./Day-23_Leetcode_Hard)                                     |
 
+| 🌟  | PROJECT SECTION                                               |
+| --- | ------------------------------------------------------------- |
+| 24  | PROJECT 1 - [Weather App ⛅](./Day-24_Project-01_Weather_App) |
+
 ## 📖 Additional Resources
 
 - [JavaScript Documentation](https://www.javascript.com/)
@@ -121,6 +125,10 @@ We Welcome Contributions! We are grateful for the valuable contributions from ou
 
 [![Forkers repo roster for @ChinmayKaitade/30Days-JavaScript-Challenge](https://reporoster.com/forks/ChinmayKaitade/30Days-JavaScript-Challenge)](https://github.com/ChinmayKaitade/30Days-JavaScript-Challenge/network/members)
 
-## License
+## 🎖️ License
 
 This Repository is [MIT Licensed](./LICENSE)
+
+## 📩 Connect Me On
+
+<a href="https://www.linkedin.com/in/chinmay-sharad-kaitade/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Chinmay'sLinkedinHandle" title="LinkedIn"/></a> | <a href="https://www.instagram.com/chinmaykaitade_hunter/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Chinmay'sInstagramHandle" title="Instagram"/></a> | <a href="https://x.com/chinmaydotcom" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Chinmay'sXHandle" title="X"/></a>
