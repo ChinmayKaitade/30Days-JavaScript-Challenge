@@ -14,7 +14,7 @@
 		<a name="license"><img src="https://img.shields.io/github/license/ChinmayKaitade/30Days-JavaScript-Challenge?style=for-the-badge"></a>
 	</p>
 	<h3>Find Challenge Here <a href="https://github.com/ChinmayKaitade/30Days-JavaScript-Challenge">JavaScript Code Challenges</a></h3>
-	<h4>Show your support by giving a ⭐ to this repo</h4>
+	<h4>Show Your Support By Giving a ⭐ to this Repo</h4>
 </div>
 
 ### _[30 Days Of JavaScript ](https://courses.chaicode.com/learn/batch/30-days-of-Javascript-challenge) by [Hitesh Choudhary](https://www.linkedin.com/in/hiteshchoudhary/) Founder of [ChaiAurCode](https://courses.chaicode.com/learn). This Repository Includes JavaScript Challenge of 30 Days with Organized manner._
@@ -89,9 +89,9 @@ Ensure you have the following installed:
 
 ## 💼 Contribution
 
-We Welcome Contributions! We are grateful for the valuable contributions from our community. Please See Our [CONTRIBUTING.md](CONTRIBUTING.md) for more Details.
+[![All Contributors](https://img.shields.io/github/all-contributors/ChinmayKaitade/30Days-JavaScript-Challenge?color=ee8449&style=flat-square)](#contributors)
 
-## Contributors
+We Welcome Contributions! We are grateful for the valuable contributions from our community. Please See Our [CONTRIBUTING.md](CONTRIBUTING.md) for more Details.
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -101,6 +101,18 @@ We Welcome Contributions! We are grateful for the valuable contributions from ou
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+## ⭐ Stargazers
+
+🌟 Thank you for starring our project! Your support means a lot and helps us continue improving." Feel free to adjust it to match your tone and style!
+
+[![Stargazers for @ChinmayKaitade/30Days-JavaScript-Challenge](https://reporoster.com/stars/ChinmayKaitade/30Days-JavaScript-Challenge)](https://github.com/ChinmayKaitade/30Days-JavaScript-Challenge/stargazers)
+
+## 🔧 Forkers
+
+🍴 Thank you for forking our project! Your interest and contributions help us grow and improve. We appreciate your support!
+
+[![Forkers repo roster for @ChinmayKaitade/30Days-JavaScript-Challenge](https://reporoster.com/forks/ChinmayKaitade/30Days-JavaScript-Challenge)](https://github.com/ChinmayKaitade/30Days-JavaScript-Challenge/network/members)
 
 ## License
 
