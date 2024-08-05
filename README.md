@@ -96,6 +96,13 @@ We Welcome Contributions! We are grateful for the valuable contributions from ou
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/DevNinja08"><img src="https://avatars.githubusercontent.com/u/156286676?v=4?s=100" width="100px;" alt="Dev Ninja"/><br /><sub><b>Dev Ninja</b></sub></a><br /><a href="#design-DevNinja08" title="Design">🎨</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
