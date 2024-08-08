@@ -1,8 +1,8 @@
-🚀 **Project Highlight: Movie Search App 🍿🎬**
+# 🚀 **Project Highlight: Movie Search App 🍿🎬**
 
 Dive into the world of movies with our **Movie Search App**, a sleek and dynamic web application that allows users to explore and discover movie details with just a few clicks. This project is a blend of modern web technologies and user-centric design, delivering a seamless experience to movie enthusiasts.
 
-### **Key Features & Technologies Used:**
+## **Key Features & Technologies Used:**
 
 1. **🎯 Search Functionality:**
 
@@ -23,15 +23,15 @@ Dive into the world of movies with our **Movie Search App**, a sleek and dynamic
    - **Technology:** CSS3, Animations
    - **Feature:** The app is designed with a clean, modern UI. Subtle CSS animations and transitions make interactions smooth and enjoyable, creating a visually appealing and responsive user experience.
 
-### **Why This Project Stands Out:**
+## **Why This Project Stands Out:**
 
 - **Interactive Search Experience:** The app's search functionality is robust, providing users with quick access to a vast database of movies.
 - **Detailed Insights:** Beyond just the basics, users can delve deeper into movie details, enriching their browsing experience.
 - **Aesthetically Pleasing:** The thoughtful design and smooth animations elevate the app's overall feel, making it a pleasure to use.
 
-Live Demo - ![Link]()
-
 ## Output Images 🌟
+
+[Live Demo Link ](https://movieflex-chaicode.netlify.app/)
 
 ![Image1](Image1.png)
 
