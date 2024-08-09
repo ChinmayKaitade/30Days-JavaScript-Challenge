@@ -26,12 +26,22 @@ Follow these instructions to run the chat application on your local machine.
 
 - **Node.js**: Ensure you have Node.js installed on your machine. [Download Node.js](https://nodejs.org/)
 
+## 🍴 Forking the Repository
+
+If you'd like to contribute to this project or customize it for your own use, follow these steps to fork the repository:
+
+### Step 1: Fork the Repository
+
+1. Navigate to the [Chat Application repository](https://github.com/ChinmayKaitade/30Days-JavaScript-Challenge/tree/main/Day-26_Project-03_Chat_Application/Project-03%20Chat%20Application) on GitHub.
+2. Click the **Fork** button in the top-right corner of the page.
+3. This will create a copy of the repository under your own GitHub account.
+
 ## Installation
 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/chat-application.git
+   git clone https://github.com/ChinmayKaitade/project-03 Chat Application.git
    ```
 
 2. **Navigate to the project directory:**
