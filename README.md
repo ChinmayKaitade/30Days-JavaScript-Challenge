@@ -48,6 +48,7 @@
 | --- | ----------------------------------------------------------------------- |
 | 24  | PROJECT 1 - [Weather App ⛅](./Day-24_Project-01_Weather_App)           |
 | 25  | PROJECT 2 - [Movie Search App ⛅](./Day-25_Project-02_Movie_Search_App) |
+| 26  | PROJECT 3 - [Chat App ⛅](.Day-26_Project-03_Chat_Application)          |
 
 ## 📖 Additional Resources
 
