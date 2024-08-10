@@ -43,7 +43,7 @@ The **Task Management App** is your go-to tool for keeping track of daily tasks.
 
 ## 📸 Screenshots
 
-[Live Demo Link]()
+🔗[Live Demo Link](https://task-management-app-chaicode.netlify.app/)
 
 ![task-management-app-image1](output/Image1.png)
 
@@ -53,3 +53,14 @@ The **Task Management App** is your go-to tool for keeping track of daily tasks.
 
 Stay organized and on top of your tasks with this simple, intuitive app. Its clean design and powerful features make task management a breeze. 💪
 
+## 🤝 Contributing
+
+Feel free to fork this repository and contribute by submitting a pull request. For any issues, please open a ticket.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 📩 Lets Connect
+
+<a href="https://www.linkedin.com/in/chinmay-sharad-kaitade/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Chinmay'sLinkedinHandle" title="LinkedIn"/></a> | <a href="https://www.instagram.com/chinmaykaitade_hunter/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Chinmay'sInstagramHandle" title="Instagram"/></a> | <a href="https://x.com/chinmaydotcom" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Chinmay'sXHandle" title="X"/></a>
