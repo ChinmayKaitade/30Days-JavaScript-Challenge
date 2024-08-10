@@ -1,26 +1,26 @@
-const WebSocket = require('ws');
+const WebSocket = require("ws");
 
 const wss = new WebSocket.Server({ port: 8080 });
 
 const clients = new Map();
 
-wss.on('connection', function connection(ws) {
-  console.log('New client connected');
+wss.on("connection", function connection(ws) {
+  console.log("New client connected");
 
-  ws.on('message', function incoming(message) {
+  ws.on("message", function incoming(message) {
     const messageData = JSON.parse(message);
-    console.log('Received:', messageData);
+    console.log("Received:", messageData);
 
-    if (messageData.type === 'auth') {
+    if (messageData.type === "auth") {
       const username = messageData.username;
       clients.set(ws, username);
       console.log(`User ${username} authenticated`);
-    } else if (messageData.type === 'chat') {
+    } else if (messageData.type === "chat") {
       const username = clients.get(ws);
       const chatMessage = {
-        type: 'chat',
+        type: "chat",
         username: username,
-        message: messageData.message
+        message: messageData.message,
       };
 
       wss.clients.forEach(function each(client) {
@@ -31,11 +31,11 @@ wss.on('connection', function connection(ws) {
     }
   });
 
-  ws.on('close', function close() {
+  ws.on("close", function close() {
     const username = clients.get(ws);
     console.log(`User ${username} disconnected`);
     clients.delete(ws);
   });
 });
 
-console.log('WebSocket server is running on ws://localhost:8080');
+console.log("WebSocket server is running on ws://localhost:8080");
