@@ -1,4 +1,4 @@
-# Day-23 : Project 1 Weather App 🍵❤️‍🔥
+# Day-24 : Project 1 Weather App 🍵❤️‍🔥
 
 ## Tasks | Activities 🌟
 
