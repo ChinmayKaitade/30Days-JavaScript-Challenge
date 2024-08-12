@@ -1,4 +1,4 @@
-# Day-23 : Project 2 - Movie Search App 🍵❤️‍🔥
+# Day-25 : Project 2 - Movie Search App 🍵❤️‍🔥
 
 ## Tasks | Activities 🌟
 

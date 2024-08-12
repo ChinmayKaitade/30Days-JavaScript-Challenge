@@ -29,13 +29,17 @@ Dive into the world of movies with our **Movie Search App**, a sleek and dynamic
 - **Detailed Insights:** Beyond just the basics, users can delve deeper into movie details, enriching their browsing experience.
 - **Aesthetically Pleasing:** The thoughtful design and smooth animations elevate the app's overall feel, making it a pleasure to use.
 
-## Output Images 🌟
+## 📸 Screenshots
 
-[Live Demo Link ](https://movieflex-chaicode.netlify.app/)
+🔗[Live Demo Link ](https://movieflex-chaicode.netlify.app/)
 
-![Image1](Image1.png)
+![Image1](./output/Image1.png)
 
-![Image2](Image2.png)
+![Image2](./output/Image2.png)
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📩 Lets Connect
 
