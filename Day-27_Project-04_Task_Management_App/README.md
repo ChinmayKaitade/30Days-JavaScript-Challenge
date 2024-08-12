@@ -1,4 +1,4 @@
-# Day-23 : Project 3 - Task Management App 🍵❤️‍🔥
+# Day-27 : Project 4 - Task Management App 🍵❤️‍🔥
 
 ## Tasks | Activities 🌟
 
@@ -44,7 +44,7 @@ _**Activity 5: Deleting Tasks**_
 
 ### Feature Request 🙇‍♂️
 
-1. **Task Creation Script:** Write a script to handle form submission, creating new tasks and displaying them
+1. **Task Creation Script:** Write a script to handle form submission, creating new tasks and displaying them.
 
 2. **Task Display Script:** Create a script to display tasks from the array in the task list, including task details and styling.
 
