@@ -41,13 +41,13 @@ If you'd like to contribute to this project or customize it for your own use, fo
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/ChinmayKaitade/project-03 Chat Application.git
+   git clone https://github.com/ChinmayKaitade/Day-26_Project-03_Chat_Application.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd chat-application
+   cd Project-03 Chat Application
    ```
 
 3. **Install the necessary dependencies:**
@@ -95,6 +95,15 @@ If you'd like to contribute to this project or customize it for your own use, fo
 1. **Enter your username** to join the chat.
 2. **Type a message** in the input area and press Enter or click the Send button.
 3. **See messages** appear in the chat window in real-time, with usernames displayed alongside their messages.
+
+## 📸 Sample Video Link
+
+Here’s a video demonstration of the project:
+
+<video width="640" height="360" controls>
+  <source src="./Chat Application.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## 🤝 Contributing
 

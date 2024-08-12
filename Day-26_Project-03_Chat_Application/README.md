@@ -1,4 +1,4 @@
-# Day-23 : Project 2 - Chat Application 🍵❤️‍🔥
+# Day-26 : Project 3 - Chat Application 🍵❤️‍🔥
 
 ## Tasks | Activities 🌟
 
