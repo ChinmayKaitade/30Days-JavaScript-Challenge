@@ -44,13 +44,15 @@
 | 22   | [LeetCode Medium 🥈](./Day-22_Leetcode_Medium)                                 |
 | 23   | [LeetCode Hard 🥇](./Day-23_Leetcode_Hard)                                     |
 
-| 🌟  | PROJECT SECTION                                                               |
-| --- | ----------------------------------------------------------------------------- |
-| 24  | PROJECT 1 - [Weather App ⛅](./Day-24_Project-01_Weather_App)                 |
-| 25  | PROJECT 2 - [Movie Search App ⛅](./Day-25_Project-02_Movie_Search_App)       |
-| 26  | PROJECT 3 - [Chat Application 🗨️](./Day-26_Project-03_Chat_Application)       |
-| 27  | PROJECT 4 - [Task Management App 📝](./Day-27_Project-04_Task_Management_App) |
-| 28  | PROJECT 5 - [E-Commerce Website 🛒](./Day-28_Project-05_E-Commerce_Website)   |
+| 🌟  | PROJECT SECTION                                                                                                           |
+| --- | ------------------------------------------------------------------------------------------------------------------------- |
+| 24  | PROJECT 1 - [Weather App ⛅](./Day-24_Project-01_Weather_App)                                                             |
+| 25  | PROJECT 2 - [Movie Search App ⛅](./Day-25_Project-02_Movie_Search_App)                                                   |
+| 26  | PROJECT 3 - [Chat Application 🗨️](./Day-26_Project-03_Chat_Application)                                                   |
+| 27  | PROJECT 4 - [Task Management App 📝](./Day-27_Project-04_Task_Management_App)                                             |
+| 28  | PROJECT 5 - [E-Commerce Website 🛒](./Day-28_Project-05_E-Commerce_Website)                                               |
+| 29  | PROJECT 6 - [Social Media Dashboard UI 📁](./Day-29_Project-06_Social_Media_Dashboard)                                    |
+| 30  | PROJECT 7 - [Social Media Dashboard UI with Extra Features 📁](./Day-30_Project-07_Social_Media_Dashboard_Extra_Features) |
 
 ## 📖 Additional Resources
 
@@ -131,7 +133,7 @@ We Welcome Contributions! We are grateful for the valuable contributions from ou
 
 ## 🎖️ License
 
-This Repository is [MIT Licensed](./LICENSE)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📩 Lets Connect
 
