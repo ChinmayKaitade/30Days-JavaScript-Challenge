@@ -3,9 +3,23 @@
   "projectOwner": "ChinmayKaitade",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "contributors": [],
-  "files": ["README.md"],
+  "contributors": [
+    {
+      "login": "shitcodebykaushik",
+      "name": "kaushik raj",
+      "avatar_url": "https://avatars.githubusercontent.com/u/122168016?v=4",
+      "profile": "https://github.com/shitcodebykaushik",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "files": [
+    "README.md"
+  ],
   "imageSize": 100,
   "commit": true,
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "commitType": "docs",
+  "commitConvention": "angular"
 }
